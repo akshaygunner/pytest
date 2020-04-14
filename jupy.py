@@ -24,4 +24,7 @@ cnt = df.size
 
 cnt
 
+shp = df.shape
+shp
+
 
